@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About
 
 Tools for optimizing your Honkai Star Rail builds, including the Character Optimizer and Relic Scorer.
@@ -34,3 +35,6 @@ Shout outs to:
 * Enka.Network - for the relic scorer API https://github.com/EnkaNetwork
 * Mar-7th - for the data files https://github.com/Mar-7th/StarRailRes
 * Dim - for helping to build out the relic scorer
+=======
+# hsr-optimizer-test-copy
+>>>>>>> 5622b9e279da519df1020f9f64f63a090b92d62d
